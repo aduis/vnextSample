@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+dist/
+*.lock.json
+*.kproj*
+/Debug
+*.nupkg
+*.dll
+*.pdb
+.vs/
